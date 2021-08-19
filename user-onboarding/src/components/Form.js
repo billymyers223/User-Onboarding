@@ -66,7 +66,7 @@ function Form(props) {
                     />
                     Agree with Terms of Service
                 </label>
-                <button disabled ={disabled}>submit</button>
+                <button id ='submit' disabled ={disabled}>submit</button>
             </form>
             
 
